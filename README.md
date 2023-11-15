@@ -1,4 +1,4 @@
-# adventureworksales
+# Adventure Works Sales
 Portfolio Project about the Adventure Works Sales Data
 # Business Request
 Steven - Sales Manager:
